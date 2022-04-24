@@ -1,0 +1,71 @@
+{
+  "blocks": [
+    {
+      "key": "8hjjc",
+      "text": "国境の短長いトンネルを抜けた。あ",
+      "type": "unstyled",
+      "depth": 0,
+      "inlineStyleRanges": [],
+      "entityRanges": [
+        { "offset": 3, "length": 1, "key": 0 },
+        { "offset": 4, "length": 1, "key": 1 },
+        { "offset": 13, "length": 1, "key": 2 },
+        { "offset": 15, "length": 1, "key": 3 }
+      ],
+      "data": {}
+    },
+    {
+      "key": "bp809",
+      "text": "",
+      "type": "unstyled",
+      "depth": 0,
+      "inlineStyleRanges": [],
+      "entityRanges": [],
+      "data": {}
+    },
+    {
+      "key": "2oeu3",
+      "text": "　向側の座席から男娘が立っていた。",
+      "type": "unstyled",
+      "depth": 0,
+      "inlineStyleRanges": [],
+      "entityRanges": [
+        { "offset": 0, "length": 1, "key": 4 },
+        { "offset": 8, "length": 1, "key": 5 },
+        { "offset": 9, "length": 1, "key": 6 }
+      ],
+      "data": {}
+    },
+    {
+      "key": "7h5aj",
+      "text": "朝日が上る。",
+      "type": "unstyled",
+      "depth": 0,
+      "inlineStyleRanges": [],
+      "entityRanges": [{ "offset": 0, "length": 6, "key": 7 }],
+      "data": {}
+    }
+  ],
+  "entityMap": {
+    "0": {
+      "type": "removed",
+      "mutability": "MUTABLE",
+      "data": { "text": "短" }
+    },
+    "1": { "type": "added", "mutability": "MUTABLE", "data": { "text": "長" } },
+    "2": { "type": "added", "mutability": "MUTABLE", "data": { "text": "た" } },
+    "3": { "type": "added", "mutability": "MUTABLE", "data": { "text": "あ" } },
+    "4": { "type": "added", "mutability": "MUTABLE", "data": { "text": "　" } },
+    "5": {
+      "type": "removed",
+      "mutability": "MUTABLE",
+      "data": { "text": "男" }
+    },
+    "6": { "type": "added", "mutability": "MUTABLE", "data": { "text": "娘" } },
+    "7": {
+      "type": "added",
+      "mutability": "MUTABLE",
+      "data": { "text": "朝日が上る。" }
+    }
+  }
+}

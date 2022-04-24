@@ -1,0 +1,14 @@
+.added-text {
+  background-color: aquamarine;
+}
+
+.removed-text {
+  background-color: hotpink;
+  text-decoration: line-through;
+}
+.editor {
+  width: 500px;
+  border: 1px solid #a45c40;
+  border-radius: 5px;
+  padding: 5px;
+}
